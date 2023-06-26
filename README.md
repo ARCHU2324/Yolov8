@@ -3,6 +3,7 @@ This repository provides pretrained models for three different tasks using YOLOv
 
 Step 1: Install Dependencies
 Ensure you have the necessary dependencies by installing utltralytics using pip:
+
 pip install utltralytics
 
 Step 2: Choose a Task
